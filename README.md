@@ -43,12 +43,12 @@ This is a simple, interactive AI chatbot built using the [Groq API](https://groq
 
 4. **Create a .env file in the root folder**
 
-  Put this into the file:
-  GROQ_API_KEY=your-groq-api-key-here
+   Put this into the file:
+   GROQ_API_KEY=your-groq-api-key-here
 
 5. **Run the app**
 
-  Streamlit run app.py
+   Streamlit run app.py
 
 
 
