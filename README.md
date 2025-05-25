@@ -30,23 +30,24 @@ This is a simple, interactive AI chatbot built using the [Groq API](https://groq
 1. **Clone the repository**  
 
    git clone https://github.com/shubhamdas18/Groq_Chatbot.git
+   
    cd Groq_Chatbot
    
-2. **Create and Activate Virtual Environment**
+3. **Create and Activate Virtual Environment**
 
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. **Install Dependencies**
+4. **Install Dependencies**
 
    pip install -r requirements.txt
 
-4. **Create a .env file in the root folder**
+5. **Create a .env file in the root folder**
 
    Put this into the file:
    GROQ_API_KEY=your-groq-api-key-here
 
-5. **Run the app**
+6. **Run the app**
 
    Streamlit run app.py
 
